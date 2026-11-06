@@ -60,6 +60,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;&nbsp;
- <a href="mailto:Dev.LucasLira@gmial.com">
+ <a href="mailto:dev.lucaslira@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white" alt="Gmail">
 </div>
